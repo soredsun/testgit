@@ -3,7 +3,7 @@ public class HelloWorld {
     public String sayHello() {
 
 
-    return"Hello Maven\n";
+    return"Hello Maven\n master v1";
 }
     public static void main(String[] args)
     {
